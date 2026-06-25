@@ -7,14 +7,14 @@ MarsMarine is an action-packed, top-down infinite shooter where you must survive
 
 ## 📸 Screenshots
 
-![Gameplay Screenshot 1](screenshots/Screenshot%202026-06-25%20195240.png)
-![Gameplay Screenshot 2](screenshots/Screenshot%202026-06-25%20195306.png)
-![Gameplay Screenshot 3](screenshots/Screenshot%202026-06-25%20195313.png)
-![Gameplay Screenshot 4](screenshots/Screenshot%202026-06-25%20195333.png)
-![Gameplay Screenshot 5](screenshots/Screenshot%202026-06-25%20195404.png)
-![Gameplay Screenshot 6](screenshots/Screenshot%202026-06-25%20195420.png)
-![Gameplay Screenshot 7](screenshots/Screenshot%202026-06-25%20195437.png)
-![Gameplay Screenshot 8](screenshots/Screenshot%202026-06-25%20195514.png)
+<img src="screenshots/screenshot_1.png" width="800">
+<img src="screenshots/screenshot_2.png" width="800">
+<img src="screenshots/screenshot_3.png" width="800">
+<img src="screenshots/screenshot_4.png" width="800">
+<img src="screenshots/screenshot_5.png" width="800">
+<img src="screenshots/screenshot_6.png" width="800">
+<img src="screenshots/screenshot_7.png" width="800">
+<img src="screenshots/screenshot_8.png" width="800">
 
 ## 🎮 Controls
 - **W, A, S, D** / **Arrow Keys**: Movement

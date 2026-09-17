@@ -49,9 +49,6 @@ MarsMarine is a pure **Blueprint** project developed in **Unreal Engine 5**, dem
 - **Scoring/Progression**: Surviving longer or defeating enemies increases the player's score or survival time. 
 
 ---
-*Developed with Unreal Engine 5.*
-
----
 
 <div align="center">
 <sub>Built with &#x2764;&#xFE0F; using Unreal Engine 5</sub>
